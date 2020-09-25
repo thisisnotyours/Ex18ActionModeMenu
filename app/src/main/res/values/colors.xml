@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>    <!--제목-->
+    <color name="colorPrimaryDark">#3700B3</color>  <!--상태표시-->
+    <color name="colorAccent">#03DAC5</color>     <!--ex: 네이버는 초록색-->  <!--테마색-->
+
+
+    <!--액션모드 배경색-->
+    <color name="actionBackColor">#FF8800</color>
+</resources>
